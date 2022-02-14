@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/activity_card_adapter2.xml" value="0.25" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/activity_card_view_holder.xml" value="0.25" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/activity_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/card_item.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/slider_item.xml" value="0.25" />
+        <entry key="..\:/Users/Ananabilla Rizky M/AndroidStudioProjects/UAS_PPB_AnanabillaRM/app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
